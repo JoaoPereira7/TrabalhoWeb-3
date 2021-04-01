@@ -33,3 +33,15 @@ Tema: Sistema de espadas.
 
 12 -> Em todos os componentes criamos o arquivo styles.css para deixar as páginas mais agradáveis de se visualizar.
 
+Links da apresentação: 
+
+GitHub: https://github.com/JoaoPereira7/TrabalhoWeb-3.git
+
+Youtube:
+
+https://www.youtube.com/watch?v=0RpqtLIMXqo&feature=youtu.be // Mallck Ravyn
+
+https://www.youtube.com/watch?v=BRrQPTBiXmM // João Pereira
+
+
+Obs: Quando fomos apresentar o programa não deixar apresentar o Robo 3T nem o Insomnia.
