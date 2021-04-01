@@ -1,1 +1,0 @@
-Coloquei esses arquivos para ficar mais pratico para o professor, mas fica a criterio do professor usar esses dados ou não.
