@@ -1,0 +1,25 @@
+// Usuarios
+
+[
+  {
+    "nome": "João Pereira",
+    "endereco": "Morada Nova",
+    "anos": "21",
+    "email": "jneto.pereira007@gmail.com",
+    "cpf": "16484432456",
+    "descricao": "Estudante universitario",
+    "nascimento": "12/10/1999",
+    "apelido": "John",
+    "titulo": "Sr."
+  },
+  {
+    "nome": "Malleck Rayyn",
+    "endereco": "Morada Nova",
+    "anos": "23",
+    "email": "malleckravyn@gmail.com",
+    "cpf": "16484432456",
+    "descricao": "Estudante universitario",
+    "nascimento": "17/12/1997",
+    "apelido": "Oda",
+    "titulo": "Sr."
+  }

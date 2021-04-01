@@ -1,0 +1,61 @@
+// Produtos
+
+{
+    "nome": "Emma",
+    "descricao": "Espada só para aqueles com vontade de ser forte",
+    "valor": "R$50000.00",
+    "quantidade": "1",
+    "tipo": "sla",
+    "tamanho": "1.19m",
+    "peso": "desconhecido",
+    "marca": "Oden",
+    "garantia": "Se você não morrer para a vida toda"
+  },
+  {
+    "nome": "Sandai Kitetsu",
+    "descricao": "Espada não classificada",
+    "valor": "R$50000.00",
+    "quantidade": "1",
+    "tipo": "Katana",
+    "tamanho": "1.19m",
+    "peso": "desconhecido",
+    "marca": "Shikomizue",
+    "garantia": "Depende de quem empunhar"
+  },
+  {
+    "nome": "Shusui",
+    "descricao": "Espada não classificada",
+    "valor": "R$500.00",
+    "quantidade": "1",
+    "tipo": "Katana",
+    "tamanho": "1.09m",
+    "peso": "desconhecido",
+    "marca": "Shikomizue",
+    "garantia": "Depende de quem empunhar"
+  },
+  {
+    "nome": "Yoru",
+    "descricao": "É uma das espadas mais fortes do mundo. É uma das doze Saijo O Wazamono",
+    "valor": "R$300000.00",
+    "quantidade": "1",
+    "tipo": "Espada",
+    "tamanho": "2m",
+    "peso": "desconhecido",
+    "marca": "Lâmina Negra",
+    "garantia": "Depende de quem empunhar"
+  },
+  {
+    "nome": "Kikoku",
+    "descricao": "Lamina não classificada",
+    "valor": "R$15000.00",
+    "quantidade": "1",
+    "tipo": "Espada",
+    "tamanho": "1.5m",
+    "peso": "desconhecido",
+    "marca": "Amadiçoada",
+    "garantia": "Depende de quem empunhar"
+  }
+]
+
+
+
